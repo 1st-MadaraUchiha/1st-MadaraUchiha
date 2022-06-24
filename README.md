@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milan_Paudel
 - 👀 I’m interested in Java Programming and Machine Learning
-- 🌱 I’m currently learning and Spring Framework
+- 🌱 I’m currently learning Spring Framework
 - 💞️ I’m looking to join a team as trainee or junior java developer.
 - 📫 How to reach me admin@pmilan.com.np
 
